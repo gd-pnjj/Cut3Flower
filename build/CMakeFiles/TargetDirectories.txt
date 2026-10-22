@@ -1,0 +1,3 @@
+/Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles/flower3d.dir
+/Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles/edit_cache.dir
+/Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles/rebuild_cache.dir
