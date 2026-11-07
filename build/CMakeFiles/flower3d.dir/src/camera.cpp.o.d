@@ -1,6 +1,6 @@
 CMakeFiles/flower3d.dir/src/camera.cpp.o: \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/src/camera.cpp \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/camera.h \
+  /Users/gabrieldupont/Cut3Flower/src/camera.cpp \
+  /Users/gabrieldupont/Cut3Flower/include/camera.h \
   /opt/homebrew/include/glm/glm.hpp \
   /opt/homebrew/include/glm/detail/_fixes.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath \

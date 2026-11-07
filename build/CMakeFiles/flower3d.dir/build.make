@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/gabrieldupont/Flower_ultra_vibe_coded
+CMAKE_SOURCE_DIR = /Users/gabrieldupont/Cut3Flower
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/gabrieldupont/Flower_ultra_vibe_coded/build
+CMAKE_BINARY_DIR = /Users/gabrieldupont/Cut3Flower/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/flower3d.dir/depend.make
@@ -73,102 +73,102 @@ CMakeFiles/flower3d.dir/codegen:
 .PHONY : CMakeFiles/flower3d.dir/codegen
 
 CMakeFiles/flower3d.dir/src/main.cpp.o: CMakeFiles/flower3d.dir/flags.make
-CMakeFiles/flower3d.dir/src/main.cpp.o: /Users/gabrieldupont/Flower_ultra_vibe_coded/src/main.cpp
+CMakeFiles/flower3d.dir/src/main.cpp.o: /Users/gabrieldupont/Cut3Flower/src/main.cpp
 CMakeFiles/flower3d.dir/src/main.cpp.o: CMakeFiles/flower3d.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/flower3d.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/main.cpp.o -MF CMakeFiles/flower3d.dir/src/main.cpp.o.d -o CMakeFiles/flower3d.dir/src/main.cpp.o -c /Users/gabrieldupont/Flower_ultra_vibe_coded/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Cut3Flower/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/flower3d.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/main.cpp.o -MF CMakeFiles/flower3d.dir/src/main.cpp.o.d -o CMakeFiles/flower3d.dir/src/main.cpp.o -c /Users/gabrieldupont/Cut3Flower/src/main.cpp
 
 CMakeFiles/flower3d.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/flower3d.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Flower_ultra_vibe_coded/src/main.cpp > CMakeFiles/flower3d.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Cut3Flower/src/main.cpp > CMakeFiles/flower3d.dir/src/main.cpp.i
 
 CMakeFiles/flower3d.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flower3d.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Flower_ultra_vibe_coded/src/main.cpp -o CMakeFiles/flower3d.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Cut3Flower/src/main.cpp -o CMakeFiles/flower3d.dir/src/main.cpp.s
 
 CMakeFiles/flower3d.dir/src/application.cpp.o: CMakeFiles/flower3d.dir/flags.make
-CMakeFiles/flower3d.dir/src/application.cpp.o: /Users/gabrieldupont/Flower_ultra_vibe_coded/src/application.cpp
+CMakeFiles/flower3d.dir/src/application.cpp.o: /Users/gabrieldupont/Cut3Flower/src/application.cpp
 CMakeFiles/flower3d.dir/src/application.cpp.o: CMakeFiles/flower3d.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/flower3d.dir/src/application.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/application.cpp.o -MF CMakeFiles/flower3d.dir/src/application.cpp.o.d -o CMakeFiles/flower3d.dir/src/application.cpp.o -c /Users/gabrieldupont/Flower_ultra_vibe_coded/src/application.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Cut3Flower/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/flower3d.dir/src/application.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/application.cpp.o -MF CMakeFiles/flower3d.dir/src/application.cpp.o.d -o CMakeFiles/flower3d.dir/src/application.cpp.o -c /Users/gabrieldupont/Cut3Flower/src/application.cpp
 
 CMakeFiles/flower3d.dir/src/application.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/flower3d.dir/src/application.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Flower_ultra_vibe_coded/src/application.cpp > CMakeFiles/flower3d.dir/src/application.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Cut3Flower/src/application.cpp > CMakeFiles/flower3d.dir/src/application.cpp.i
 
 CMakeFiles/flower3d.dir/src/application.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flower3d.dir/src/application.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Flower_ultra_vibe_coded/src/application.cpp -o CMakeFiles/flower3d.dir/src/application.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Cut3Flower/src/application.cpp -o CMakeFiles/flower3d.dir/src/application.cpp.s
 
 CMakeFiles/flower3d.dir/src/renderer.cpp.o: CMakeFiles/flower3d.dir/flags.make
-CMakeFiles/flower3d.dir/src/renderer.cpp.o: /Users/gabrieldupont/Flower_ultra_vibe_coded/src/renderer.cpp
+CMakeFiles/flower3d.dir/src/renderer.cpp.o: /Users/gabrieldupont/Cut3Flower/src/renderer.cpp
 CMakeFiles/flower3d.dir/src/renderer.cpp.o: CMakeFiles/flower3d.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/flower3d.dir/src/renderer.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/renderer.cpp.o -MF CMakeFiles/flower3d.dir/src/renderer.cpp.o.d -o CMakeFiles/flower3d.dir/src/renderer.cpp.o -c /Users/gabrieldupont/Flower_ultra_vibe_coded/src/renderer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Cut3Flower/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/flower3d.dir/src/renderer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/renderer.cpp.o -MF CMakeFiles/flower3d.dir/src/renderer.cpp.o.d -o CMakeFiles/flower3d.dir/src/renderer.cpp.o -c /Users/gabrieldupont/Cut3Flower/src/renderer.cpp
 
 CMakeFiles/flower3d.dir/src/renderer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/flower3d.dir/src/renderer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Flower_ultra_vibe_coded/src/renderer.cpp > CMakeFiles/flower3d.dir/src/renderer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Cut3Flower/src/renderer.cpp > CMakeFiles/flower3d.dir/src/renderer.cpp.i
 
 CMakeFiles/flower3d.dir/src/renderer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flower3d.dir/src/renderer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Flower_ultra_vibe_coded/src/renderer.cpp -o CMakeFiles/flower3d.dir/src/renderer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Cut3Flower/src/renderer.cpp -o CMakeFiles/flower3d.dir/src/renderer.cpp.s
 
 CMakeFiles/flower3d.dir/src/camera.cpp.o: CMakeFiles/flower3d.dir/flags.make
-CMakeFiles/flower3d.dir/src/camera.cpp.o: /Users/gabrieldupont/Flower_ultra_vibe_coded/src/camera.cpp
+CMakeFiles/flower3d.dir/src/camera.cpp.o: /Users/gabrieldupont/Cut3Flower/src/camera.cpp
 CMakeFiles/flower3d.dir/src/camera.cpp.o: CMakeFiles/flower3d.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/flower3d.dir/src/camera.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/camera.cpp.o -MF CMakeFiles/flower3d.dir/src/camera.cpp.o.d -o CMakeFiles/flower3d.dir/src/camera.cpp.o -c /Users/gabrieldupont/Flower_ultra_vibe_coded/src/camera.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Cut3Flower/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/flower3d.dir/src/camera.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/camera.cpp.o -MF CMakeFiles/flower3d.dir/src/camera.cpp.o.d -o CMakeFiles/flower3d.dir/src/camera.cpp.o -c /Users/gabrieldupont/Cut3Flower/src/camera.cpp
 
 CMakeFiles/flower3d.dir/src/camera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/flower3d.dir/src/camera.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Flower_ultra_vibe_coded/src/camera.cpp > CMakeFiles/flower3d.dir/src/camera.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Cut3Flower/src/camera.cpp > CMakeFiles/flower3d.dir/src/camera.cpp.i
 
 CMakeFiles/flower3d.dir/src/camera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flower3d.dir/src/camera.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Flower_ultra_vibe_coded/src/camera.cpp -o CMakeFiles/flower3d.dir/src/camera.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Cut3Flower/src/camera.cpp -o CMakeFiles/flower3d.dir/src/camera.cpp.s
 
 CMakeFiles/flower3d.dir/src/flower.cpp.o: CMakeFiles/flower3d.dir/flags.make
-CMakeFiles/flower3d.dir/src/flower.cpp.o: /Users/gabrieldupont/Flower_ultra_vibe_coded/src/flower.cpp
+CMakeFiles/flower3d.dir/src/flower.cpp.o: /Users/gabrieldupont/Cut3Flower/src/flower.cpp
 CMakeFiles/flower3d.dir/src/flower.cpp.o: CMakeFiles/flower3d.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/flower3d.dir/src/flower.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/flower.cpp.o -MF CMakeFiles/flower3d.dir/src/flower.cpp.o.d -o CMakeFiles/flower3d.dir/src/flower.cpp.o -c /Users/gabrieldupont/Flower_ultra_vibe_coded/src/flower.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Cut3Flower/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/flower3d.dir/src/flower.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/flower.cpp.o -MF CMakeFiles/flower3d.dir/src/flower.cpp.o.d -o CMakeFiles/flower3d.dir/src/flower.cpp.o -c /Users/gabrieldupont/Cut3Flower/src/flower.cpp
 
 CMakeFiles/flower3d.dir/src/flower.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/flower3d.dir/src/flower.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Flower_ultra_vibe_coded/src/flower.cpp > CMakeFiles/flower3d.dir/src/flower.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Cut3Flower/src/flower.cpp > CMakeFiles/flower3d.dir/src/flower.cpp.i
 
 CMakeFiles/flower3d.dir/src/flower.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flower3d.dir/src/flower.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Flower_ultra_vibe_coded/src/flower.cpp -o CMakeFiles/flower3d.dir/src/flower.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Cut3Flower/src/flower.cpp -o CMakeFiles/flower3d.dir/src/flower.cpp.s
 
 CMakeFiles/flower3d.dir/src/shader.cpp.o: CMakeFiles/flower3d.dir/flags.make
-CMakeFiles/flower3d.dir/src/shader.cpp.o: /Users/gabrieldupont/Flower_ultra_vibe_coded/src/shader.cpp
+CMakeFiles/flower3d.dir/src/shader.cpp.o: /Users/gabrieldupont/Cut3Flower/src/shader.cpp
 CMakeFiles/flower3d.dir/src/shader.cpp.o: CMakeFiles/flower3d.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/flower3d.dir/src/shader.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/shader.cpp.o -MF CMakeFiles/flower3d.dir/src/shader.cpp.o.d -o CMakeFiles/flower3d.dir/src/shader.cpp.o -c /Users/gabrieldupont/Flower_ultra_vibe_coded/src/shader.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Cut3Flower/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/flower3d.dir/src/shader.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/shader.cpp.o -MF CMakeFiles/flower3d.dir/src/shader.cpp.o.d -o CMakeFiles/flower3d.dir/src/shader.cpp.o -c /Users/gabrieldupont/Cut3Flower/src/shader.cpp
 
 CMakeFiles/flower3d.dir/src/shader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/flower3d.dir/src/shader.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Flower_ultra_vibe_coded/src/shader.cpp > CMakeFiles/flower3d.dir/src/shader.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Cut3Flower/src/shader.cpp > CMakeFiles/flower3d.dir/src/shader.cpp.i
 
 CMakeFiles/flower3d.dir/src/shader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flower3d.dir/src/shader.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Flower_ultra_vibe_coded/src/shader.cpp -o CMakeFiles/flower3d.dir/src/shader.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Cut3Flower/src/shader.cpp -o CMakeFiles/flower3d.dir/src/shader.cpp.s
 
 CMakeFiles/flower3d.dir/src/gl_loader.cpp.o: CMakeFiles/flower3d.dir/flags.make
-CMakeFiles/flower3d.dir/src/gl_loader.cpp.o: /Users/gabrieldupont/Flower_ultra_vibe_coded/src/gl_loader.cpp
+CMakeFiles/flower3d.dir/src/gl_loader.cpp.o: /Users/gabrieldupont/Cut3Flower/src/gl_loader.cpp
 CMakeFiles/flower3d.dir/src/gl_loader.cpp.o: CMakeFiles/flower3d.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/flower3d.dir/src/gl_loader.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/gl_loader.cpp.o -MF CMakeFiles/flower3d.dir/src/gl_loader.cpp.o.d -o CMakeFiles/flower3d.dir/src/gl_loader.cpp.o -c /Users/gabrieldupont/Flower_ultra_vibe_coded/src/gl_loader.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gabrieldupont/Cut3Flower/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/flower3d.dir/src/gl_loader.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flower3d.dir/src/gl_loader.cpp.o -MF CMakeFiles/flower3d.dir/src/gl_loader.cpp.o.d -o CMakeFiles/flower3d.dir/src/gl_loader.cpp.o -c /Users/gabrieldupont/Cut3Flower/src/gl_loader.cpp
 
 CMakeFiles/flower3d.dir/src/gl_loader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/flower3d.dir/src/gl_loader.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Flower_ultra_vibe_coded/src/gl_loader.cpp > CMakeFiles/flower3d.dir/src/gl_loader.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/gabrieldupont/Cut3Flower/src/gl_loader.cpp > CMakeFiles/flower3d.dir/src/gl_loader.cpp.i
 
 CMakeFiles/flower3d.dir/src/gl_loader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flower3d.dir/src/gl_loader.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Flower_ultra_vibe_coded/src/gl_loader.cpp -o CMakeFiles/flower3d.dir/src/gl_loader.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/gabrieldupont/Cut3Flower/src/gl_loader.cpp -o CMakeFiles/flower3d.dir/src/gl_loader.cpp.s
 
 # Object files for target flower3d
 flower3d_OBJECTS = \
@@ -193,7 +193,7 @@ flower3d: CMakeFiles/flower3d.dir/src/gl_loader.cpp.o
 flower3d: CMakeFiles/flower3d.dir/build.make
 flower3d: /opt/homebrew/lib/libglfw.3.5.dylib
 flower3d: CMakeFiles/flower3d.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable flower3d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/gabrieldupont/Cut3Flower/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable flower3d"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/flower3d.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -205,6 +205,6 @@ CMakeFiles/flower3d.dir/clean:
 .PHONY : CMakeFiles/flower3d.dir/clean
 
 CMakeFiles/flower3d.dir/depend:
-	cd /Users/gabrieldupont/Flower_ultra_vibe_coded/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/gabrieldupont/Flower_ultra_vibe_coded /Users/gabrieldupont/Flower_ultra_vibe_coded /Users/gabrieldupont/Flower_ultra_vibe_coded/build /Users/gabrieldupont/Flower_ultra_vibe_coded/build /Users/gabrieldupont/Flower_ultra_vibe_coded/build/CMakeFiles/flower3d.dir/DependInfo.cmake "--color=$(COLOR)" flower3d
+	cd /Users/gabrieldupont/Cut3Flower/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/gabrieldupont/Cut3Flower /Users/gabrieldupont/Cut3Flower /Users/gabrieldupont/Cut3Flower/build /Users/gabrieldupont/Cut3Flower/build /Users/gabrieldupont/Cut3Flower/build/CMakeFiles/flower3d.dir/DependInfo.cmake "--color=$(COLOR)" flower3d
 .PHONY : CMakeFiles/flower3d.dir/depend
 

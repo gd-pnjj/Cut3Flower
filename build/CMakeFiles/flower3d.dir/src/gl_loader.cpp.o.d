@@ -1,6 +1,6 @@
 CMakeFiles/flower3d.dir/src/gl_loader.cpp.o: \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/src/gl_loader.cpp \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/gl_loader.h \
+  /Users/gabrieldupont/Cut3Flower/src/gl_loader.cpp \
+  /Users/gabrieldupont/Cut3Flower/include/gl_loader.h \
   /opt/homebrew/include/GLFW/glfw3.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stddef.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \

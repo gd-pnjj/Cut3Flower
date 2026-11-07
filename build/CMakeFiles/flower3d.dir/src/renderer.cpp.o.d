@@ -1,6 +1,6 @@
 CMakeFiles/flower3d.dir/src/renderer.cpp.o: \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/src/renderer.cpp \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/renderer.h \
+  /Users/gabrieldupont/Cut3Flower/src/renderer.cpp \
+  /Users/gabrieldupont/Cut3Flower/include/renderer.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/memory \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \
@@ -975,15 +975,15 @@ CMakeFiles/flower3d.dir/src/renderer.cpp.o: \
   /opt/homebrew/include/glm/vector_relational.hpp \
   /opt/homebrew/include/glm/integer.hpp \
   /opt/homebrew/include/glm/detail/func_integer.inl \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/shader.h \
+  /Users/gabrieldupont/Cut3Flower/include/shader.h \
   /opt/homebrew/include/GLFW/glfw3.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gltypes.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGLAvailability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/os/availability.h \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/camera.h \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/flower.h \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/gl_loader.h \
+  /Users/gabrieldupont/Cut3Flower/include/camera.h \
+  /Users/gabrieldupont/Cut3Flower/include/flower.h \
+  /Users/gabrieldupont/Cut3Flower/include/gl_loader.h \
   /opt/homebrew/include/glm/gtc/matrix_transform.hpp \
   /opt/homebrew/include/glm/gtc/../mat4x4.hpp \
   /opt/homebrew/include/glm/gtc/../vec2.hpp \

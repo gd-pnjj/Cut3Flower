@@ -1,6 +1,6 @@
 CMakeFiles/flower3d.dir/src/application.cpp.o: \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/src/application.cpp \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/application.h \
+  /Users/gabrieldupont/Cut3Flower/src/application.cpp \
+  /Users/gabrieldupont/Cut3Flower/include/application.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/memory \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \
@@ -487,7 +487,7 @@ CMakeFiles/flower3d.dir/src/application.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gltypes.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGLAvailability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/os/availability.h \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/renderer.h \
+  /Users/gabrieldupont/Cut3Flower/include/renderer.h \
   /opt/homebrew/include/glm/glm.hpp \
   /opt/homebrew/include/glm/detail/_fixes.hpp \
   /opt/homebrew/include/glm/detail/setup.hpp \
@@ -981,8 +981,8 @@ CMakeFiles/flower3d.dir/src/application.cpp.o: \
   /opt/homebrew/include/glm/vector_relational.hpp \
   /opt/homebrew/include/glm/integer.hpp \
   /opt/homebrew/include/glm/detail/func_integer.inl \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/camera.h \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/gl_loader.h \
+  /Users/gabrieldupont/Cut3Flower/include/camera.h \
+  /Users/gabrieldupont/Cut3Flower/include/gl_loader.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/istream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/basic_ostream.h \

@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/Users/gabrieldupont/Flower_ultra_vibe_coded/CMakeLists.txt"
+  "/Users/gabrieldupont/Cut3Flower/CMakeLists.txt"
   "CMakeFiles/4.4.4/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.4.4/CMakeSystem.cmake"
   "/opt/homebrew/lib/cmake/glfw3/glfw3Config.cmake"

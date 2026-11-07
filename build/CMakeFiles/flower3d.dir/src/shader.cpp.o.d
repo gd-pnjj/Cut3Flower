@@ -1,6 +1,6 @@
 CMakeFiles/flower3d.dir/src/shader.cpp.o: \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/src/shader.cpp \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/shader.h \
+  /Users/gabrieldupont/Cut3Flower/src/shader.cpp \
+  /Users/gabrieldupont/Cut3Flower/include/shader.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/string \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/max.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp.h \
@@ -980,7 +980,7 @@ CMakeFiles/flower3d.dir/src/shader.cpp.o: \
   /opt/homebrew/include/glm/vector_relational.hpp \
   /opt/homebrew/include/glm/integer.hpp \
   /opt/homebrew/include/glm/detail/func_integer.inl \
-  /Users/gabrieldupont/Flower_ultra_vibe_coded/include/gl_loader.h \
+  /Users/gabrieldupont/Cut3Flower/include/gl_loader.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/filesystem \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/copy_options.h \
