@@ -1,3 +1,0 @@
-/Users/gabrieldupont/Cut3Flower/build/CMakeFiles/flower3d.dir
-/Users/gabrieldupont/Cut3Flower/build/CMakeFiles/edit_cache.dir
-/Users/gabrieldupont/Cut3Flower/build/CMakeFiles/rebuild_cache.dir
